@@ -31,6 +31,14 @@ public class Student{   // fully encapsulated class
          Student s2 = new Student(123,"ABC",9.2,"Pune"); // new object - city
          s2.getStudent(); // city
     }
+    public void setStudent(int i, String string, double d) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setStudent'");
+    }
+    public void getSname() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getSname'");
+    }
 }
 
 
